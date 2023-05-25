@@ -1,0 +1,37 @@
+{
+    "cars" :[
+        {
+        "key":1,
+        "id":1,
+        "name":"Panther Lily",
+        "price":24970,
+        "image1":"/blackcat.webp",
+        "desc":"Panther Lily seems to have a grumpy disposition and detests noisy people. He first appears by demanding that Byro and the hyperactive Hughes quiet down (although Sugarboy noted that Panther Lily was in a nastier mood than usual). He also seemed to have reservations about Operation ETD, unlike the other commanders. This was presumably because he did not want his own race to be destroyed, despite the fact that he had also said that Extalia was a fake country, one he discarded a long time ago. However, Panther Lily is on good terms with Mystogan as he saved the young prince from death when he was a small child. Panther Lily does not discriminate against Exceeds or humans and treats them as equals, unlike the Exceeds in Edolas who viewed themselves as superior to the humans. Panther Lily likes kiwi fruits, even singing their praises. Despite his tough attitude, he is frightened of thunder. He also seems to have a penchant for oversized weapons, as shown from his handling of the Bustermarm and his liking for the Musica Sword."
+        },
+        {
+        "key":2,
+        "id":2,
+        "name":"Lector",
+        "price":90000,
+        "image1": "/lector.webp",
+        "desc":"After seeing Sting fight for the first time, Lector followed Sting and begged him to allow him to become his student. Sting was confused as the why Lector wasn't scared of him, but Lector claimed he just wanted to become strong. Sting admitted it would be weird to have a cat as a student, but told Lector to follow him anyways. Several years ago, Lector began to brag to others about how his friend Sting killed a Dragon on his own. However, no one believed him and others even started saying bad things about Sting, which greatly upset the little Exceed. As he was crying, Sting put his hand on Lector's head and promised that he would defeat a man named Salamander."
+        },
+        {
+        "key":3,
+        "id":3,
+        "name":"Frosch",
+        "price":70000,
+        "image1": "/frosch.jpg",
+        "desc":"Frosch is happy-go-lucky, has a habit of speaking in the third person, and agrees with other people's opinions, regardless of what they may be. Also, Frosch has a habit of asking questions that others may deem to be redundant, such as when it was scolded by Lector for asking who would win between Orga and Warcry. Frosch is also very fond of Yukino, apparently having a good relationship with her when she was in Sabertooth, and was seen visibly saddened by her excommunication from their guild, and, afterwards, mentioned that it felt lonely. Frosch has a fear of being excommunicated from Sabertooth, but, according to Rogue, Frosch's fears are for naught, as he is there with it. Frosch loves Rogue, and was very worried when Rogue was being beaten by Jiemma. Frosch is also very outgoing and is willing to put itself in danger to protect the ones it loves, as seen when it ran to where Gajeel and Rogue were fighting, intent on making the 'Shadow' leave Rogue's body, and when it arrived, protected Rogue, who would die if the fight continued any further, from Gajeel."
+        },
+        {
+        "key":4,
+        "id":4,
+        "name":"Happy",
+        "price":30000,
+        "image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTOrMDgbI-U3lWTyXwc1-2J4l19ZSsvocAg5My8I6b4C6uOskWrKqsuTZsMxAIStM3yg&usqp=CAU",
+        "desc":"Despite his small stature and eccentric appearance, Happy is very loyal to his teammates and fellow guild members and has a fairly significant amount of knowledge of the Magic world, in some cases, more than Lucy and Natsu. Given that he has been around Natsu Dragneel since his own birth, Happy often emulates Natsu in his actions and responses. He is quick-witted and cheeky, especially to Lucy Heartfilia; however, Happy sometimes shows little bits of a darker side of himself, for example when making a comment on the devastating aspects of the Magic of his comrades.He loves fish more than anything else, and he doesn't like dogs (except for Plue). He offers a comic relief with his catchphrase, 'Aye!' or 'Aye Sir!'. He holds a respect and admiration to Exceed like himself and drools on Loke's shoulder when he finds out that Loke is the celestial spirit of Leo the Lion. Happy has also developed a strong affection towards Carla, another Exceed who at first blows him off, but then begins to like and respect him."
+        }
+        
+            ]  
+}

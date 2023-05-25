@@ -1,0 +1,55 @@
+.cardcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.link{
+    text-decoration: none;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.item{
+width: 16vw;
+border: 2px solid black;
+border-radius: 15px;
+margin-bottom: 10px;
+}
+.item:hover{
+    border: 2px solid rgb(178, 251, 70, 0.5);
+    
+}
+.image{
+    background-size: cover;
+    background-position: center;
+    
+    width: 100%;
+    
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 200px;
+}
+h1{
+    font-family: 'Cherry Bomb One', cursive;
+}
+.info {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 18px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: black;
+}
+.info h2{
+    margin-bottom: 5px;
+}
+.info p{
+    margin-bottom: 10px;
+}

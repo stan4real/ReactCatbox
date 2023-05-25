@@ -1,0 +1,31 @@
+body{
+    background-color: #effcdb;
+    color: rgb(38, 49, 49);
+    padding: 20px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 6px 40px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+    transition: all 0.3s ease;
+    cursor:pointer;
+    text-decoration: none;
+    max-width: 100px;
+    color: rgb(34, 33, 33);
+    background-color: #fff;
+    border: solid 1px black;
+}
+.back{
+    background-color: coral;
+}
+.btn:hover{
+    background-color: #57a2fe;
+}
+.back:hover{
+    background-color: antiquewhite;
+}

@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    
+}
+.fl{
+    padding-left: 10px;
+    flex-grow: 1;
+}
+p{
+    max-width: 1000px;
+margin-left: 100px;
+font-family: 'Dancing Script', cursive;
+font-size: 24px;
+}
