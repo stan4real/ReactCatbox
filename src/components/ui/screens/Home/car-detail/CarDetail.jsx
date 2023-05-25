@@ -23,7 +23,7 @@ const CarDetail = () =>{
         if (!car?.name) return <p>Loading...</p>
 
     return (<div >
-            <Link className="btn back" to='/'>Back</Link>
+            <Link className="btn back" to='/ReactCatbox'>Back</Link>
             <div className={styles.container}>
             <motion.div
             initial={{ opacity: 0, scale: 0.7 }}

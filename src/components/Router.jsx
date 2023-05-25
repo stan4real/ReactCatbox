@@ -4,7 +4,7 @@ import CarDetail from "./ui/screens/Home/car-detail/CarDetail"
 const Router = () => {
     return <BrowserRouter>
     <Routes>
-        <Route element = {<Home/>} path='/'></Route>
+        <Route element = {<Home/>} path='/ReactCatbox'></Route>
         <Route element ={<CarDetail/>} path ='/cat/:id'/>
         <Route path='*' element={<div>Not found</div>}></Route>
     </Routes>

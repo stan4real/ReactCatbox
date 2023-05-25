@@ -5,6 +5,7 @@ import { CarService } from '../../../../service/car.service.js'
 import styles from '../Home/Home.module.css'
 import { motion } from "framer-motion"
 import { Link } from 'react-router-dom'
+
 function Home() {
     const [cars, setCars] = useState([])
     
@@ -26,9 +27,9 @@ function Home() {
             <CreateCarForm setCars={setCars} />
             <div className={styles.cardcontainer}>
                 {cars.length ? cars.map(car =>(
-                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{scale:0.9}}>
+                    <motion.div key={car.id} whileHover={{ scale: 1.1 }} whileTap={{scale:0.9}}>
                         <Link className= {styles.link} to={`/cat/${car.id}`}>
-                <CarItem key={car.key} car={car} ></CarItem>
+                <CarItem  car={car} ></CarItem>
                 </Link>
                 </motion.div>
                 ))
